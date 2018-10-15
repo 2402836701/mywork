@@ -1,0 +1,4 @@
+git config --global user.name "ming"
+git config --global user.email "2402836701@qq.com"
+
+пч╦днд╪Ч╪п
